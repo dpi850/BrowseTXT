@@ -1,8 +1,4 @@
 # BrowseTXT
-browsetxt
-
-
-# BrowseTXT
 
 A lightweight, command-line web browser designed for efficient text-based Browse and navigation. `BrowseTXT` fetches web pages, strips away distractions, and presents the core textual content and navigable links directly in your terminal. It also includes basic history and file download capabilities.
 
