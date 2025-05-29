@@ -10,8 +10,6 @@ A lightweight, command-line web browser designed for efficient text-based Browse
     * [Prerequisites](#prerequisites)
     * [Installation](#installation)
     * [Usage](#usage)
-* [License](#license)
-* [Contact](#contact)
 
 ## About BrowseTXT
 
