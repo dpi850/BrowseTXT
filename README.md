@@ -1,7 +1,4 @@
 # BrowseTXT
-
-A lightweight, command-line web browser designed for efficient text-based Browse and navigation. `BrowseTXT` fetches web pages, strips away distractions, and presents the core textual content and navigable links directly in your terminal. It also includes basic history and file download capabilities.
-
 ## Table of Contents
 
 * [About BrowseTXT](#about-browsetxt)
@@ -61,7 +58,7 @@ python browsetxt.py
 Here's the README.md content formatted for GitHub Markdown:
 Markdown
 
-# BrowseTXT
+BrowseTXT
 
 ![BrowseTXT Banner (Optional - You can add an ASCII art banner or a relevant image here, e.g., a console screenshot)](https://via.placeholder.com/800x200?text=BrowseTXT+-+Terminal+Web+Browser)
 
