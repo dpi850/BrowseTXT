@@ -37,5 +37,12 @@ Commands:
     exit: Exits the browser application.
 
 
+Screenshots
 
+![Capture444](https://github.com/user-attachments/assets/5c15e2de-0576-4e8e-9e44-8039c8215a88)
 
+![Capture444333](https://github.com/user-attachments/assets/9031c934-d754-4341-ac2f-e5a37ea953ed)
+
+![Capture44444444](https://github.com/user-attachments/assets/5d970671-d3e0-4271-9cc2-5fe4bbe814d3)
+
+![Capture444444446666666666](https://github.com/user-attachments/assets/54bf075e-fb09-4e8e-91f2-c66de526f3a5)
